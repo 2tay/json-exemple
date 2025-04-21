@@ -1,0 +1,1170 @@
+[
+  {
+    "instruction": "Créer une présentation sur les principes de base du HTML",
+    "output": [
+      {
+        "title": "Introduction au HTML",
+        "subsections": [
+          {
+            "title": "Qu'est-ce que le HTML ?",
+            "content": "HTML (HyperText Markup Language) est le langage standard utilisé pour créer des pages web. Il décrit la structure d'une page web à l'aide de balises qui définissent différents éléments comme les titres, paragraphes, images, liens, etc.",
+            "bullets": [
+              "Langage de balisage (non de programmation)",
+              "Base fondamentale du web",
+              "Fonctionne en tandem avec CSS et JavaScript"
+            ]
+          },
+  {
+    "instruction": "Créer une présentation sur les bases du design graphique",
+    "output": [
+      {
+        "title": "Fondamentaux du design graphique",
+        "subsections": [
+          {
+            "title": "Qu'est-ce que le design graphique ?",
+            "content": "Le design graphique est l'art de combiner textes et images pour communiquer visuellement un message ou une idée. C'est une discipline qui mêle créativité et résolution de problèmes pour créer des communications visuelles efficaces.",
+            "bullets": [
+              "Forme de communication visuelle visant à transmettre des messages spécifiques",
+              "Discipline à la croisée de l'art et de la communication",
+              "Utilise des éléments visuels pour résoudre des problèmes de communication",
+              "Présent dans de nombreux supports : imprimés, numériques, environnementaux"
+            ],
+            "content2": "Le design graphique joue un rôle crucial dans notre société visuelle moderne, façonnant notre perception des marques, des informations et des médias que nous consommons quotidiennement."
+          },
+          {
+            "title": "Bref historique du design graphique",
+            "content": "Le design graphique a évolué considérablement au fil du temps :",
+            "table": [
+              ["Période", "Développements clés"],
+              ["Préhistoire", "Premières communications visuelles (peintures rupestres)"],
+              ["Antiquité", "Développement de l'écriture, hiéroglyphes, calligraphie"],
+              ["XVe siècle", "Invention de l'imprimerie par Gutenberg"],
+              ["XIXe siècle", "Révolution industrielle, affiches Art Nouveau"],
+              ["Début XXe siècle", "Mouvements Bauhaus, De Stijl, Constructivisme"],
+              ["Mi-XXe siècle", "Style typographique international (Swiss Style)"],
+              ["Fin XXe siècle", "Révolution numérique, logiciels de design"],
+              ["XXIe siècle", "Design responsive, UI/UX, motion design"]
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Éléments et principes du design",
+        "subsections": [
+          {
+            "title": "Éléments fondamentaux",
+            "content": "Les designers graphiques travaillent avec plusieurs éléments de base :",
+            "bullets": [
+              "**Ligne** : Élément fondamental définissant la forme, créant la division ou le mouvement",
+              "**Forme** : Surfaces définies (cercles, carrés, triangles et formes organiques)",
+              "**Couleur** : Outil puissant évoquant des émotions et attirant l'attention",
+              "**Texture** : Qualité de surface (réelle ou simulée) ajoutant dimension et intérêt",
+              "**Espace** : Zones positives (occupées) et négatives (vides) dans une composition",
+              "**Type/Typographie** : Art de sélectionner et d'arranger les polices de caractères"
+            ],
+            "content2": "Ces éléments sont les briques de base avec lesquelles le designer construit ses créations, chacun apportant des qualités uniques à la composition."
+          },
+          {
+            "title": "Principes de composition",
+            "content": "Pour organiser efficacement les éléments visuels, les designers suivent plusieurs principes :",
+            "bullets": [
+              "**Équilibre** : Distribution harmonieuse du poids visuel (symétrique ou asymétrique)",
+              "**Contraste** : Juxtaposition d'éléments différents pour créer de l'impact",
+              "**Hiérarchie** : Organisation des éléments par ordre d'importance",
+              "**Alignement** : Placement précis des éléments pour créer de l'ordre et des connexions",
+              "**Répétition** : Réutilisation d'éléments pour renforcer l'unité et la cohérence",
+              "**Proximité** : Regroupement d'éléments liés pour montrer leurs relations",
+              "**Espace blanc** : Utilisation délibérée d'espaces vides pour améliorer la lisibilité"
+            ],
+            "content2": "Ces principes guident les designers pour créer des compositions harmonieuses, efficaces et esthétiquement plaisantes."
+          }
+        ]
+      },
+      {
+        "title": "Domaines et applications du design graphique",
+        "subsections": [
+          {
+            "title": "Spécialisations en design graphique",
+            "content": "Le design graphique comprend plusieurs domaines de spécialisation :",
+            "table": [
+              ["Spécialisation", "Description", "Exemples"],
+              ["Design d'identité", "Création d'identités visuelles pour marques et entreprises", "Logos, chartes graphiques, cartes de visite"],
+              ["Design éditorial", "Mise en page de publications imprimées et numériques", "Livres, magazines, journaux, newsletters"],
+              ["Design publicitaire", "Création visuelle pour promouvoir produits et services", "Affiches, bannières, campagnes publicitaires"],
+              ["Design d'emballage", "Conception de contenants et étiquettes de produits", "Packaging alimentaire, étiquettes, boîtes"],
+              ["Design web/UI", "Interface utilisateur pour sites et applications", "Sites web, interfaces d'apps, icônes"],
+              ["Motion design", "Design graphique avec mouvement et animation", "Génériques, infographies animées, GIFs"]
+            ]
+          },
+          {
+            "title": "Le processus de design",
+            "content": "La création en design graphique suit généralement un processus structuré :",
+            "bullets": [
+              "**Brief et recherche** : Comprendre le problème, le public cible et le contexte",
+              "**Idéation** : Brainstorming et génération de concepts créatifs",
+              "**Esquisse et prototype** : Création de versions préliminaires des designs",
+              "**Présentation au client** : Partage des concepts pour obtenir un retour",
+              "**Révisions** : Ajustements basés sur les retours",
+              "**Finalisation** : Peaufinage et préparation des fichiers pour production",
+              "**Évaluation** : Analyse de l'efficacité du design une fois déployé"
+            ],
+            "content2": "Ce processus n'est pas toujours linéaire et peut comporter des allers-retours entre les différentes étapes, particulièrement lors des phases de révision."
+          }
+        ]
+      }
+    ]
+  }
+]
+  {
+    "instruction": "Créer une présentation sur l'intelligence émotionnelle",
+    "output": [
+      {
+        "title": "Introduction à l'intelligence émotionnelle",
+        "subsections": [
+          {
+            "title": "Définition et conceptualisation",
+            "content": "L'intelligence émotionnelle (IE) est la capacité à reconnaître, comprendre et gérer nos propres émotions ainsi qu'à reconnaître, comprendre et influencer les émotions des autres. Ce concept a émergé comme un domaine d'étude important en psychologie et management.",
+            "bullets": [
+              "Concept formulé par Salovey et Mayer au début des années 1990",
+              "Popularisé par Daniel Goleman dans son livre de 1995",
+              "Complémentaire au QI traditionnel mesurant les capacités cognitives",
+              "Considérée comme un facteur clé de succès professionnel et personnel"
+            ],
+            "content2": "Contrairement à l'intelligence cognitive (QI) qui est relativement stable, l'intelligence émotionnelle peut être développée et améliorée tout au long de la vie."
+          },
+          {
+            "title": "Les modèles d'intelligence émotionnelle",
+            "content": "Plusieurs modèles théoriques ont été développés pour comprendre l'intelligence émotionnelle :",
+            "table": [
+              ["Modèle", "Concepteurs", "Composantes clés"],
+              ["Modèle d'aptitude", "Salovey & Mayer", "Perception émotionnelle, Utilisation des émotions, Compréhension émotionnelle, Gestion émotionnelle"],
+              ["Modèle mixte", "Daniel Goleman", "Conscience de soi, Autorégulation, Motivation, Empathie, Compétences sociales"],
+              ["Modèle de traits", "Petrides & Furnham", "Intelligence émotionnelle comme ensemble de traits de personnalité liés aux émotions"]
+            ],
+            "content2": "Ces modèles offrent des perspectives complémentaires, certains se concentrant sur les aptitudes cognitives liées aux émotions, d'autres intégrant des aspects de la personnalité."
+          }
+        ]
+      },
+      {
+        "title": "Les composantes de l'intelligence émotionnelle",
+        "subsections": [
+          {
+            "title": "Les cinq dimensions selon Goleman",
+            "content": "Daniel Goleman a identifié cinq composantes essentielles de l'intelligence émotionnelle :",
+            "bullets": [
+              "**Conscience de soi** : Capacité à reconnaître et comprendre ses propres émotions, forces, faiblesses, valeurs et objectifs",
+              "**Autorégulation** : Aptitude à contrôler ou rediriger ses émotions perturbatrices et à s'adapter aux circonstances changeantes",
+              "**Motivation** : Passion pour le travail au-delà de l'argent ou du statut, et persévérance face aux obstacles",
+              "**Empathie** : Compréhension des états émotionnels des autres personnes et capacité à les traiter selon leurs réactions émotionnelles",
+              "**Compétences sociales** : Capacité à gérer les relations, à établir des réseaux et à trouver un terrain d'entente"
+            ]
+          },
+          {
+            "title": "Caractéristiques des personnes émotionnellement intelligentes",
+            "content": "Les individus avec une forte intelligence émotionnelle présentent généralement ces caractéristiques :",
+            "bullets": [
+              "Conscience de leurs propres forces et limites",
+              "Capacité à exprimer leurs émotions de manière appropriée",
+              "Résilience face aux revers et adaptation au changement",
+              "Empathie et compréhension des perspectives des autres",
+              "Communication efficace et résolution constructive des conflits",
+              "Établissement et maintien de relations interpersonnelles saines",
+              "Prise de décision équilibrée intégrant raison et émotion"
+            ],
+            "content2": "Ces caractéristiques se manifestent à différents degrés et peuvent être développées par la pratique et la réflexion personnelle."
+          }
+        ]
+      },
+      {
+        "title": "Développement et applications de l'intelligence émotionnelle",
+        "subsections": [
+          {
+            "title": "Stratégies pour développer l'intelligence émotionnelle",
+            "content": "L'intelligence émotionnelle peut être cultivée et renforcée par diverses pratiques :",
+            "bullets": [
+              "**Pleine conscience (mindfulness)** : Pratique de l'attention au moment présent pour mieux observer ses émotions",
+              "**Journal émotionnel** : Noter régulièrement ses expériences émotionnelles pour identifier des schémas",
+              "**Feedback constructif** : Solliciter des retours honnêtes sur son comportement et son impact sur les autres",
+              "**Écoute active** : Développer sa capacité à être pleinement présent et attentif dans les conversations",
+              "**Gestion du stress** : Techniques de relaxation et stratégies d'adaptation face aux situations difficiles",
+              "**Développement de l'empathie** : S'exercer à se mettre à la place des autres et comprendre leurs perspectives"
+            ]
+          },
+          {
+            "title": "Applications dans différents contextes",
+            "content": "L'intelligence émotionnelle est valorisée dans de nombreux domaines :",
+            "table": [
+              ["Domaine", "Applications de l'intelligence émotionnelle"],
+              ["Milieu professionnel", "Leadership efficace, travail d'équipe, résolution de conflits, service client"],
+              ["Éducation", "Apprentissage socio-émotionnel, gestion de classe, relations enseignant-élève"],
+              ["Relations personnelles", "Communication de couple, parentalité positive, amitiés durables"],
+              ["Santé mentale", "Gestion du stress, prévention du burnout, résilience émotionnelle"],
+              ["Prise de décision", "Équilibre entre raison et émotion dans les choix importants"]
+            ],
+            "content2": "La recherche montre que l'intelligence émotionnelle contribue significativement au bien-être personnel et au succès dans ces différents contextes."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "instruction": "Créer une présentation sur les principes du développement durable",
+    "output": [
+      {
+        "title": "Fondamentaux du développement durable",
+        "subsections": [
+          {
+            "title": "Définition et historique",
+            "content": "Le développement durable est un modèle de développement qui répond aux besoins du présent sans compromettre la capacité des générations futures à répondre à leurs propres besoins.",
+            "bullets": [
+              "Concept formulé officiellement dans le rapport Brundtland (1987)",
+              "Popularisé lors du Sommet de la Terre à Rio de Janeiro (1992)",
+              "Évolution d'une préoccupation environnementale vers une vision intégrée",
+              "Reconnu comme un impératif mondial dans l'Agenda 2030 de l'ONU (2015)"
+            ],
+            "content2": "Le développement durable repose sur l'idée que les systèmes sociaux, économiques et environnementaux sont interconnectés et doivent être considérés ensemble pour assurer un avenir viable."
+          },
+          {
+            "title": "Les trois piliers du développement durable",
+            "content": "Le développement durable s'articule traditionnellement autour de trois dimensions fondamentales :",
+            "bullets": [
+              "**Pilier environnemental** : Préservation de la biodiversité, gestion durable des ressources naturelles, lutte contre le changement climatique",
+              "**Pilier économique** : Croissance économique responsable, innovation, production et consommation durables",
+              "**Pilier social** : Équité sociale, accès aux services essentiels, respect des droits humains, bien-être"
+            ],
+            "content2": "Ces trois piliers sont interdépendants et doivent être équilibrés. Certains modèles ajoutent un quatrième pilier « gouvernance » ou « culturel »."
+          }
+        ]
+      },
+      {
+        "title": "Enjeux environnementaux globaux",
+        "subsections": [
+          {
+            "title": "Changement climatique",
+            "content": "Le changement climatique représente l'un des plus grands défis de notre époque :",
+            "bullets": [
+              "**Causes** : Émissions de gaz à effet de serre (GES) principalement issues des activités humaines",
+              "**Impacts** : Hausse des températures, élévation du niveau des mers, événements météorologiques extrêmes",
+              "**Atténuation** : Réduction des émissions de GES, transition énergétique",
+              "**Adaptation** : Ajustement des systèmes pour réduire la vulnérabilité aux effets du changement climatique"
+            ],
+            "table": [
+              ["Accord/Initiative", "Année", "Objectif principal"],
+              ["Protocole de Kyoto", "1997", "Réduction des émissions de GES des pays développés"],
+              ["Accord de Paris", "2015", "Limiter le réchauffement global à moins de 2°C, viser 1,5°C"],
+              ["Stratégie Net Zéro", "2050", "Atteindre la neutralité carbone d'ici le milieu du siècle"]
+            ]
+          },
+          {
+            "title": "Biodiversité et ressources naturelles",
+            "content": "La préservation de la biodiversité et la gestion durable des ressources sont cruciales :",
+            "bullets": [
+              "**Perte de biodiversité** : Sixième extinction de masse en cours, perte d'habitats naturels",
+              "**Déforestation** : Destruction des forêts pour l'agriculture, l'urbanisation et l'exploitation forestière",
+              "**Pollution** : Contamination de l'air, de l'eau et des sols par diverses substances nocives",
+              "**Surexploitation** : Épuisement des ressources halieutiques, minérales et autres ressources non renouvelables",
+              "**Économie circulaire** : Modèle visant à limiter la consommation de ressources et les déchets"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Mise en œuvre du développement durable",
+        "subsections": [
+          {
+            "title": "Objectifs de Développement Durable (ODD)",
+            "content": "Les 17 Objectifs de Développement Durable (ODD) adoptés par l'ONU en 2015 constituent une feuille de route globale jusqu'en 2030 :",
+            "bullets": [
+              "Programme universel couvrant tous les aspects du développement durable",
+              "169 cibles spécifiques et indicateurs mesurables",
+              "Engagement de « ne laisser personne de côté »",
+              "Mise en œuvre impliquant gouvernements, secteur privé et société civile"
+            ],
+            "table": [
+              ["Catégorie", "Exemples d'ODD"],
+              ["Sociaux", "ODD 1 (Pas de pauvreté), ODD 3 (Bonne santé), ODD 4 (Éducation de qualité)"],
+              ["Économiques", "ODD 8 (Travail décent), ODD 9 (Innovation et infrastructure)"],
+              ["Environnementaux", "ODD 13 (Action climatique), ODD 14 (Vie aquatique), ODD 15 (Vie terrestre)"],
+              ["Partenariats", "ODD 17 (Partenariats pour les objectifs)"]
+            ]
+          },
+          {
+            "title": "Stratégies et actions à différentes échelles",
+            "content": "Le développement durable requiert une action coordonnée à tous les niveaux :",
+            "bullets": [
+              "**Niveau international** : Accords multilatéraux, coopération Nord-Sud, transferts de technologie",
+              "**Niveau national** : Législation environnementale, politiques fiscales, stratégies nationales",
+              "**Niveau local** : Initiatives communautaires, aménagement du territoire, mobilité durable",
+              "**Niveau individuel** : Choix de consommation, réduction de l'empreinte écologique, engagement citoyen",
+              "**Niveau entrepreneurial** : Responsabilité sociétale des entreprises (RSE), innovation verte"
+            ],
+            "content2": "La transition vers un modèle plus durable nécessite l'implication de tous les acteurs et une transformation profonde des systèmes actuels."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "instruction": "Créer une présentation sur les bases de la musique",
+    "output": [
+      {
+        "title": "Fondamentaux de la théorie musicale",
+        "subsections": [
+          {
+            "title": "Les éléments de base de la musique",
+            "content": "La musique repose sur plusieurs éléments fondamentaux qui se combinent pour créer l'expérience musicale :",
+            "bullets": [
+              "**Le son** : Vibration qui se propage dans un milieu (généralement l'air)",
+              "**La hauteur** : Perception du son comme grave ou aigu, liée à la fréquence des vibrations",
+              "**La durée** : Temps pendant lequel un son est émis",
+              "**L'intensité** : Force ou volume du son (forte, piano, etc.)",
+              "**Le timbre** : Qualité sonore qui permet de distinguer les instruments ou voix"
+            ],
+            "content2": "Ces éléments sont les briques de base avec lesquelles toute musique est construite, quelle que soit la culture ou l'époque."
+          },
+          {
+            "title": "Notes et gammes",
+            "content": "Dans la musique occidentale, les hauteurs sont organisées en notes qui forment des gammes :",
+            "bullets": [
+              "**Notes** : Do, Ré, Mi, Fa, Sol, La, Si (ou C, D, E, F, G, A, B en notation anglo-saxonne)",
+              "**Octave** : Intervalle entre deux notes de même nom, où la fréquence double",
+              "**Gamme majeure** : Suite de 7 notes avec une structure d'intervalles spécifique (ton-ton-demi-ton-ton-ton-ton-demi-ton)",
+              "**Gamme mineure** : Suite de 7 notes avec une structure différente, souvent associée à des émotions plus mélancoliques",
+              "**Altérations** : Dièse (♯) qui augmente la hauteur d'un demi-ton, bémol (♭) qui la diminue"
+            ],
+            "table": [
+              ["Gamme", "Structure d'intervalles", "Exemple"],
+              ["Majeure", "T-T-½T-T-T-T-½T", "Do majeur : Do, Ré, Mi, Fa, Sol, La, Si, Do"],
+              ["Mineure naturelle", "T-½T-T-T-½T-T-T", "La mineur : La, Si, Do, Ré, Mi, Fa, Sol, La"],
+              ["Mineure harmonique", "T-½T-T-T-½T-T+½T-½T", "La mineur harmonique : La, Si, Do, Ré, Mi, Fa, Sol♯, La"],
+              ["Pentatonique majeure", "T-T-T+½T-T-T+½T", "Do pentatonique : Do, Ré, Mi, Sol, La, Do"]
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Rythme et harmonie",
+        "subsections": [
+          {
+            "title": "Le rythme et le temps",
+            "content": "Le rythme est l'organisation des sons dans le temps, créant le mouvement et la structure de la musique :",
+            "bullets": [
+              "**Pulsation** : Battement régulier qui sous-tend la musique",
+              "**Mesure** : Organisation de la pulsation en groupes réguliers (binaire, ternaire, etc.)",
+              "**Tempo** : Vitesse de la pulsation (lent, modéré, rapide)",
+              "**Figures rythmiques** : Valeurs de durée relative des notes (ronde, blanche, noire, croche...)",
+              "**Syncope** : Accentuation d'un temps faible ou d'une partie non accentuée du temps"
+            ],
+            "table": [
+              ["Figure de note", "Valeur relative", "Représentation"],
+              ["Ronde", "4 temps", "O"],
+              ["Blanche", "2 temps", "d"],
+              ["Noire", "1 temps", "♩"],
+              ["Croche", "1/2 temps", "♪"],
+              ["Double-croche", "1/4 temps", "♬"]
+            ]
+          },
+          {
+            "title": "Harmonie et accords",
+            "content": "L'harmonie concerne la combinaison simultanée de notes pour former des accords et leur progression :",
+            "bullets": [
+              "**Accord** : Ensemble d'au moins trois notes jouées simultanément",
+              "**Triade** : Accord de base composé de trois notes (fondamentale, tierce, quinte)",
+              "**Triade majeure** : Composée d'une tierce majeure et d'une quinte juste",
+              "**Triade mineure** : Composée d'une tierce mineure et d'une quinte juste",
+              "**Progression d'accords** : Succession d'accords formant une séquence harmonique"
+            ],
+            "content2": "En musique tonale, les accords ont des fonctions harmoniques qui créent des tensions et des résolutions, comme dans la cadence parfaite (V - I)."
+          }
+        ]
+      },
+      {
+        "title": "Structure et interprétation musicale",
+        "subsections": [
+          {
+            "title": "Formes musicales",
+            "content": "La forme musicale est la structure globale d'une œuvre, l'organisation des différentes sections qui la composent :",
+            "bullets": [
+              "**Forme binaire (AB)** : Deux sections contrastantes (exposition et développement)",
+              "**Forme ternaire (ABA)** : Trois sections, avec retour à la première après la section contrastante",
+              "**Forme Rondo (ABACA...)** : Retour régulier du thème principal entre des sections contrastantes",
+              "**Forme Sonate** : Structure complexe utilisée dans les sonates, symphonies (exposition, développement, réexposition)",
+              "**Thème et variations** : Présentation d'un thème suivi de plusieurs variations"
+            ],
+            "content2": "Les formes musicales varient considérablement selon les époques, les genres et les cultures, mais elles servent toujours à organiser le discours musical de manière cohérente."
+  {
+    "instruction": "Créer une présentation sur les principes de la psychologie cognitive",
+    "output": [
+      {
+        "title": "Introduction à la psychologie cognitive",
+        "subsections": [
+          {
+            "title": "Qu'est-ce que la psychologie cognitive ?",
+            "content": "La psychologie cognitive est la branche de la psychologie qui étudie les processus mentaux impliqués dans l'acquisition, le traitement, le stockage et l'utilisation des connaissances. Elle s'intéresse aux fonctions mentales supérieures comme la perception, l'attention, la mémoire, le langage, la résolution de problèmes et la prise de décision.",
+            "bullets": [
+              "Émergence dans les années 1950-1960 en réaction au behaviorisme",
+              "Utilise la métaphore du traitement de l'information, inspirée de l'informatique",
+              "S'appuie sur des méthodes expérimentales rigoureuses",
+              "Intègre des apports des neurosciences, de l'intelligence artificielle et de la linguistique"
+            ]
+          },
+          {
+            "title": "Approches théoriques en psychologie cognitive",
+            "content": "Plusieurs cadres théoriques coexistent en psychologie cognitive :",
+            "bullets": [
+              "**Approche computationnelle** : L'esprit comme système de traitement de l'information",
+              "**Connexionnisme** : Modèles inspirés des réseaux neuronaux biologiques",
+              "**Cognition incarnée** : L'importance du corps et de l'interaction avec l'environnement",
+              "**Approche écologique** : L'adaptation des processus cognitifs aux contraintes environnementales",
+              "**Neurocognition** : Étude des bases neurales des processus cognitifs"
+            ],
+            "content2": "Ces approches ne sont pas mutuellement exclusives et sont souvent complémentaires pour comprendre la complexité de la cognition humaine."
+          }
+        ]
+      },
+      {
+        "title": "Processus cognitifs fondamentaux",
+        "subsections": [
+          {
+            "title": "Perception et attention",
+            "content": "La perception est le processus par lequel nous organisons et interprétons les informations sensorielles pour comprendre notre environnement. L'attention est le mécanisme qui nous permet de sélectionner certaines informations pour un traitement approfondi.",
+            "bullets": [
+              "**Perception ascendante (bottom-up)** : Traitement guidé par les stimuli",
+              "**Perception descendante (top-down)** : Traitement guidé par nos connaissances et attentes",
+              "**Attention sélective** : Capacité à se concentrer sur certains stimuli tout en ignorant d'autres",
+              "**Attention divisée** : Capacité à traiter simultanément plusieurs sources d'information",
+              "**Automaticité** : Certains processus deviennent automatiques avec la pratique, nécessitant peu d'attention"
+            ],
+            "content2": "Les illusions perceptives illustrent comment notre système cognitif interprète activement l'information sensorielle, parfois de manière erronée."
+          },
+          {
+            "title": "Mémoire et apprentissage",
+            "content": "La mémoire est le processus cognitif qui permet d'encoder, stocker et récupérer des informations. L'apprentissage est le processus par lequel l'expérience modifie les connaissances et les comportements.",
+            "table": [
+              ["Type de mémoire", "Caractéristiques", "Durée"],
+              ["Mémoire sensorielle", "Très brève, grande capacité, peu traitée", "< 1 seconde"],
+              ["Mémoire à court terme", "Capacité limitée (7±2 éléments), maintenue par répétition", "~20-30 secondes"],
+              ["Mémoire de travail", "Manipulation active d'informations", "Durée de l'utilisation"],
+              ["Mémoire à long terme déclarative", "Faits (sémantique) et événements personnels (épisodique)", "Potentiellement à vie"],
+              ["Mémoire à long terme procédurale", "Savoir-faire, habiletés motrices", "Très stable"]
+            ],
+            "bullets": [
+              "Le processus de mémorisation implique l'encodage, le stockage et la récupération",
+              "L'oubli peut résulter d'un défaut d'encodage, d'interférences ou de la dégradation des traces mnésiques",
+              "L'apprentissage est facilité par la profondeur du traitement et la création de connexions significatives"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Applications et perspectives contemporaines",
+        "subsections": [
+          {
+            "title": "Applications pratiques de la psychologie cognitive",
+            "content": "Les principes de la psychologie cognitive sont appliqués dans de nombreux domaines :",
+            "table": [
+              ["Domaine", "Applications"],
+              ["Éducation", "Méthodes d'apprentissage efficaces, conception pédagogique, remédiation cognitive"],
+              ["Ergonomie cognitive", "Conception d'interfaces, prévention des erreurs, charge cognitive"],
+              ["Neuropsychologie clinique", "Évaluation et réhabilitation des troubles cognitifs"],
+              ["Intelligence artificielle", "Modèles computationnels inspirés de la cognition humaine"],
+              ["Marketing", "Compréhension des processus de décision des consommateurs"],
+              ["Santé", "Modification comportementale, adhésion aux traitements"]
+            ]
+          },
+          {
+            "title": "Tendances actuelles en recherche cognitive",
+            "content": "La psychologie cognitive continue d'évoluer avec plusieurs tendances émergentes :",
+            "bullets": [
+              "**Neurosciences cognitives** : Intégration croissante des méthodes d'imagerie cérébrale (IRMf, EEG)",
+              "**Sciences cognitives computationnelles** : Modélisation mathématique et simulation informatique des processus cognitifs",
+              "**Cognition sociale** : Étude de l'influence des facteurs sociaux sur les processus cognitifs",
+              "**Psychologie cognitive transculturelle** : Exploration des universaux et des spécificités culturelles de la cognition",
+              "**Cognition augmentée** : Étude de l'interaction entre cognition humaine et technologies"
+            ],
+            "content2": "Ces développements témoignent de la nature interdisciplinaire croissante de la psychologie cognitive, qui s'enrichit des apports de nombreux domaines connexes."
+          },
+          {
+            "title": "Interprétation et expression",
+            "content": "Au-delà des notes écrites, l'interprétation musicale fait appel à de nombreux éléments expressifs :",
+            "bullets": [
+              "**Nuances** : Variations d'intensité (pianissimo, piano, forte, fortissimo...)",
+              "**Articulation** : Manière de jouer les notes (legato, staccato, tenuto...)",
+              "**Phrasé** : Façon d'organiser les notes en phrases musicales cohérentes",
+              "**Rubato** : Flexibilité dans le tempo pour des raisons expressives",
+              "**Dynamique** : Évolution de l'intensité au cours d'un passage musical (crescendo, diminuendo)"
+            ],
+            "table": [
+              ["Terme d'expression", "Symbole", "Signification"],
+              ["Forte", "f", "Fort"],
+              ["Piano", "p", "Doux"],
+              ["Crescendo", "<", "En augmentant progressivement l'intensité"],
+              ["Diminuendo", ">", "En diminuant progressivement l'intensité"],
+              ["Staccato", ".", "Notes courtes et détachées"],
+              ["Legato", "⁀", "Notes liées, jouées sans interruption"]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "instruction": "Créer une présentation sur les bases de l'astronomie",
+    "output": [
+      {
+        "title": "Introduction à l'astronomie",
+        "subsections": [
+          {
+            "title": "Qu'est-ce que l'astronomie ?",
+            "content": "L'astronomie est la science qui étudie les corps célestes (étoiles, planètes, comètes, galaxies) ainsi que les phénomènes qui se produisent en dehors de l'atmosphère terrestre. C'est l'une des plus anciennes sciences, pratiquée depuis des millénaires par diverses civilisations.",
+            "bullets": [
+              "Science qui étudie l'Univers au-delà de l'atmosphère terrestre",
+              "Combine la physique, les mathématiques et la chimie",
+              "Distincte de l'astrologie, qui n'est pas une science",
+              "Se divise en plusieurs branches spécialisées (astrophysique, cosmologie, planétologie)"
+            ]
+          },
+          {
+            "title": "L'histoire de l'astronomie",
+            "content": "L'astronomie a connu plusieurs révolutions conceptuelles au cours de son histoire :",
+            "table": [
+              ["Période", "Développements clés"],
+              ["Astronomie antique", "Observations à l'œil nu, calendriers, modèles géocentriques"],
+              ["Révolution copernicienne (XVIe siècle)", "Modèle héliocentrique, lois de Kepler sur les orbites"],
+              ["Ère galiléenne (XVIIe siècle)", "Premier usage du télescope, découverte des lunes de Jupiter"],
+              ["Ère newtonienne", "Loi de la gravitation universelle, mécanique céleste"],
+              ["XIXe - début XXe siècle", "Spectroscopie, photographie, compréhension des étoiles"],
+              ["Astronomie moderne", "Radioastronomie, télescopes spatiaux, détection d'exoplanètes"]
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Notre système solaire",
+        "subsections": [
+          {
+            "title": "Le Soleil et les planètes",
+            "content": "Notre système solaire comprend le Soleil, huit planètes, leurs lunes, et d'autres corps célestes :",
+            "bullets": [
+              "**Le Soleil** : Étoile de type G située au centre du système solaire, représente 99,86% de la masse totale",
+              "**Planètes telluriques** : Mercure, Vénus, Terre et Mars (rocheuses, denses, proches du Soleil)",
+              "**Ceinture d'astéroïdes** : Région entre Mars et Jupiter contenant des millions de petits corps rocheux",
+              "**Planètes géantes gazeuses** : Jupiter et Saturne (composées principalement d'hydrogène et d'hélium)",
+              "**Planètes géantes glacées** : Uranus et Neptune (composées principalement de glaces, roches et gaz)"
+            ],
+            "table": [
+              ["Planète", "Distance au Soleil (UA)", "Période orbitale", "Nombre de lunes"],
+              ["Mercure", "0,39", "88 jours", "0"],
+              ["Vénus", "0,72", "225 jours", "0"],
+              ["Terre", "1,00", "365,25 jours", "1"],
+              ["Mars", "1,52", "687 jours", "2"],
+              ["Jupiter", "5,20", "11,9 ans", "79+"],
+              ["Saturne", "9,54", "29,5 ans", "82+"],
+              ["Uranus", "19,2", "84 ans", "27"],
+              ["Neptune", "30,1", "165 ans", "14"]
+            ]
+          },
+          {
+            "title": "Autres objets du système solaire",
+            "content": "Au-delà des planètes, notre système solaire comprend de nombreux autres objets :",
+            "bullets": [
+              "**Planètes naines** : Pluton, Cérès, Éris, Hauméa, Makémaké (corps sphériques n'ayant pas nettoyé leur orbite)",
+              "**Comètes** : Corps glacés provenant principalement du nuage d'Oort ou de la ceinture de Kuiper",
+              "**Astéroïdes** : Corps rocheux principalement situés dans la ceinture d'astéroïdes",
+              "**Objets transneptuniens** : Corps glacés au-delà de l'orbite de Neptune",
+              "**Météoroïdes** : Petits corps rocheux ou métalliques voyageant dans l'espace"
+            ],
+            "content2": "La limite du système solaire est définie par l'héliosphère, zone d'influence du vent solaire, qui s'étend bien au-delà de l'orbite de Neptune."
+          }
+        ]
+      },
+      {
+        "title": "Au-delà du système solaire",
+        "subsections": [
+          {
+            "title": "Étoiles et galaxies",
+            "content": "L'univers observable contient des centaines de milliards de galaxies, chacune contenant des milliards d'étoiles :",
+            "bullets": [
+              "**Étoiles** : Sphères massives de plasma maintenues par la gravité et l'énergie générée par fusion nucléaire",
+              "**Classification stellaire** : Les étoiles sont classées selon leur température, luminosité et masse",
+              "**Cycle de vie des étoiles** : Formation dans des nébuleuses, vie sur la séquence principale, fin de vie variable (naine blanche, étoile à neutrons, trou noir)",
+              "**Galaxies** : Vastes ensembles d'étoiles, de gaz, de poussière et de matière noire",
+              "**Voie lactée** : Notre galaxie, de type spirale barrée, contenant 200-400 milliards d'étoiles"
+            ]
+          },
+          {
+            "title": "Cosmologie et univers",
+            "content": "La cosmologie étudie l'origine, l'évolution et la structure à grande échelle de l'univers :",
+            "bullets": [
+              "**Big Bang** : Théorie dominante sur l'origine de l'univers il y a environ 13,8 milliards d'années",
+              "**Expansion de l'univers** : L'espace lui-même s'étend, éloignant les galaxies les unes des autres",
+              "**Fond diffus cosmologique** : Rayonnement résiduel du Big Bang, première lumière observable de l'univers",
+              "**Matière noire et énergie noire** : Composantes mystérieuses représentant environ 95% du contenu énergétique de l'univers",
+              "**Structure à grande échelle** : Les galaxies s'organisent en amas, super-amas et filaments"
+            ],
+            "content2": "Le modèle cosmologique standard (Lambda-CDM) décrit un univers plat, en expansion accélérée, dominé par l'énergie noire et la matière noire froide."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "instruction": "Créer une présentation sur les fondements de l'économie",
+    "output": [
+      {
+        "title": "Concepts fondamentaux de l'économie",
+        "subsections": [
+          {
+            "title": "Qu'est-ce que l'économie ?",
+            "content": "L'économie est la science sociale qui étudie la production, la distribution et la consommation des biens et services. Elle analyse comment les individus, les entreprises, les gouvernements et les sociétés utilisent leurs ressources limitées pour satisfaire leurs besoins et désirs illimités.",
+            "bullets": [
+              "**Microéconomie** : Étudie le comportement des acteurs économiques individuels",
+              "**Macroéconomie** : Examine l'économie dans son ensemble",
+              "**Économie positive** : Ce qui est (faits, analyses)",
+              "**Économie normative** : Ce qui devrait être (jugements, recommandations)"
+            ]
+          },
+          {
+            "title": "Les problèmes économiques fondamentaux",
+            "content": "Toute société doit répondre à trois questions économiques fondamentales :",
+            "bullets": [
+              "**Quoi produire ?** Quels biens et services, en quelles quantités",
+              "**Comment produire ?** Quelles ressources et technologies utiliser",
+              "**Pour qui produire ?** Comment distribuer les biens et services"
+            ],
+            "content2": "Les différents systèmes économiques (capitalisme, socialisme, économie mixte) apportent des réponses différentes à ces questions."
+          }
+        ]
+      },
+      {
+        "title": "Offre, demande et marchés",
+        "subsections": [
+          {
+            "title": "La loi de l'offre et de la demande",
+            "content": "La théorie de l'offre et de la demande est un pilier fondamental de l'analyse économique. Elle décrit comment le prix d'un bien est déterminé par l'interaction entre acheteurs et vendeurs.",
+            "bullets": [
+              "**Demande** : Relation inverse entre prix et quantité demandée",
+              "**Offre** : Relation positive entre prix et quantité offerte",
+              "**Prix d'équilibre** : Point où offre et demande s'égalisent",
+              "**Surplus du consommateur** : Différence entre prix maximum que les consommateurs sont prêts à payer et prix réel",
+              "**Surplus du producteur** : Différence entre prix réel et coût de production"
+            ],
+            "content2": "Des changements dans les facteurs sous-jacents (revenus, goûts, coûts, technologies) peuvent déplacer les courbes d'offre et de demande, modifiant l'équilibre."
+          },
+          {
+            "title": "Types de marchés et concurrence",
+            "content": "Les marchés diffèrent selon leur structure et leur niveau de concurrence :",
+            "table": [
+              ["Structure de marché", "Caractéristiques", "Exemples"],
+              ["Concurrence parfaite", "Nombreux vendeurs, produits homogènes, libre entrée", "Marchés agricoles, certains marchés financiers"],
+              ["Monopole", "Un seul vendeur, barrières à l'entrée", "Services publics locaux, brevets"],
+              ["Oligopole", "Peu de vendeurs, interdépendance", "Automobile, télécommunications"],
+              ["Concurrence monopolistique", "Nombreux vendeurs, produits différenciés", "Restaurants, habillement"]
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Indicateurs économiques et politiques publiques",
+        "subsections": [
+          {
+            "title": "Principaux indicateurs macroéconomiques",
+            "content": "Ces indicateurs permettent de mesurer la performance économique d'un pays :",
+            "table": [
+              ["Indicateur", "Définition", "Importance"],
+              ["PIB (Produit Intérieur Brut)", "Valeur totale des biens et services produits", "Mesure principale de l'activité économique"],
+              ["Taux de chômage", "Pourcentage de la population active sans emploi", "Indicateur du marché du travail"],
+              ["Inflation", "Hausse généralisée des prix", "Impact sur pouvoir d'achat et épargne"],
+              ["Balance commerciale", "Différence entre exportations et importations", "Mesure des échanges internationaux"],
+              ["Dette publique", "Montant total dû par l'État", "Soutenabilité des finances publiques"]
+            ]
+          },
+          {
+            "title": "Politiques économiques",
+            "content": "Les gouvernements utilisent différents outils pour influencer l'économie :",
+            "bullets": [
+              "**Politique monétaire** : Contrôle de la masse monétaire et des taux d'intérêt par la banque centrale",
+              "**Politique budgétaire** : Gestion des dépenses gouvernementales et de la fiscalité",
+              "**Politique structurelle** : Réformes visant à améliorer l'efficacité économique à long terme",
+              "**Politique commerciale** : Régulation des échanges internationaux (tarifs, quotas, accords)"
+            ],
+            "content2": "Ces politiques visent généralement à atteindre la stabilité des prix, le plein emploi, la croissance économique et l'équilibre extérieur."
+          }
+        ]
+      }
+    ]
+  },
+          {
+            "title": "Évolution du HTML",
+            "content": "Le HTML a évolué au fil des années pour s'adapter aux besoins changeants du web :",
+            "table": [
+              ["Version", "Année", "Caractéristiques principales"],
+              ["HTML 1.0", "1991", "Version initiale très basique"],
+              ["HTML 4.01", "1999", "Standardisation des balises"],
+              ["XHTML", "2000", "Version plus stricte basée sur XML"],
+              ["HTML5", "2014", "Support multimédia natif, nouvelles balises sémantiques"]
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Structure de base d'une page HTML",
+        "subsections": [
+          {
+            "title": "Squelette d'un document HTML",
+            "content": "Chaque document HTML suit une structure de base :",
+            "code": [
+              "<!DOCTYPE html>",
+              "<html>",
+              "<head>",
+              "    <meta charset=\"UTF-8\">",
+              "    <title>Titre de la page</title>",
+              "</head>",
+              "<body>",
+              "    <h1>Mon premier titre</h1>",
+              "    <p>Mon premier paragraphe.</p>",
+              "</body>",
+              "</html>"
+            ]
+          },
+          {
+            "title": "Les balises essentielles",
+            "content": "Voici les balises fondamentales que tout développeur devrait connaître :",
+            "bullets": [
+              "**Titres** : `<h1>` à `<h6>` pour structurer le contenu",
+              "**Paragraphes** : `<p>` pour le texte courant",
+              "**Liens** : `<a href=\"url\">texte</a>` pour créer des hyperliens",
+              "**Images** : `<img src=\"image.jpg\" alt=\"description\">` pour afficher des images",
+              "**Listes** : `<ul>`, `<ol>` et `<li>` pour créer des listes"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Éléments sémantiques HTML5",
+        "subsections": [
+          {
+            "title": "Pourquoi utiliser la sémantique ?",
+            "content": "Les balises sémantiques décrivent le sens du contenu qu'elles contiennent, offrant plusieurs avantages :",
+            "bullets": [
+              "Amélioration de l'accessibilité pour les lecteurs d'écran",
+              "SEO optimisé pour les moteurs de recherche",
+              "Code plus lisible et maintenable",
+              "Structure claire pour les développeurs"
+            ]
+          },
+          {
+            "title": "Principales balises sémantiques",
+            "content": "HTML5 a introduit plusieurs balises sémantiques importantes :",
+            "table": [
+              ["Balise", "Usage"],
+              ["<header>", "En-tête de page ou de section"],
+              ["<nav>", "Section de navigation"],
+              ["<main>", "Contenu principal de la page"],
+              ["<section>", "Section thématique du contenu"],
+              ["<article>", "Contenu autonome et indépendant"],
+              ["<aside>", "Contenu indirectement lié (sidebar)"],
+              ["<footer>", "Pied de page ou de section"]
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Applications et impact de l'IA",
+        "subsections": [
+          {
+            "title": "Domaines d'application actuels",
+            "content": "L'IA transforme de nombreux secteurs :",
+            "table": [
+              ["Secteur", "Applications"],
+              ["Santé", "Diagnostic médical, découverte de médicaments, imagerie"],
+              ["Finance", "Détection de fraude, trading algorithmique, évaluation de risques"],
+              ["Transport", "Véhicules autonomes, optimisation de trajets, maintenance prédictive"],
+              ["Commerce", "Recommandations personnalisées, chatbots, prévision de demande"],
+              ["Divertissement", "Création de contenu, jeux vidéo, recommandation de médias"]
+            ]
+          },
+          {
+            "title": "Considérations éthiques et défis",
+            "content": "Le développement de l'IA soulève d'importantes questions :",
+            "bullets": [
+              "**Biais et équité** : Les systèmes d'IA peuvent perpétuer ou amplifier les biais sociaux existants",
+              "**Vie privée** : Collecte et utilisation massive de données personnelles",
+              "**Transparence** : Difficulté à expliquer les décisions des modèles complexes (problème de la \"boîte noire\")",
+              "**Impact sur l'emploi** : Automatisation de certaines tâches et transformation du marché du travail",
+              "**Sécurité** : Vulnérabilités potentielles et utilisation malveillante"
+            ],
+            "content2": "Une approche responsable du développement de l'IA nécessite la collaboration entre techniciens, éthiciens, législateurs et société civile."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "instruction": "Créer une présentation sur les bases de la photographie",
+    "output": [
+      {
+        "title": "Fondamentaux de la photographie",
+        "subsections": [
+          {
+            "title": "Le triangle d'exposition",
+            "content": "L'exposition en photographie repose sur trois piliers fondamentaux :",
+            "bullets": [
+              "**Ouverture** : Contrôle la quantité de lumière et la profondeur de champ (f/1.8, f/5.6, f/22...)",
+              "**Vitesse d'obturation** : Détermine la durée pendant laquelle le capteur est exposé à la lumière (1/1000s, 1/60s, 1s...)",
+              "**ISO** : Règle la sensibilité du capteur à la lumière (100, 400, 3200...)"
+            ],
+            "content2": "Ces trois éléments sont interdépendants. Si vous modifiez l'un d'eux, vous devrez souvent ajuster les autres pour maintenir une exposition correcte."
+          },
+          {
+            "title": "Types d'appareils photo",
+            "content": "Il existe plusieurs types d'appareils photo, chacun avec ses avantages et limitations :",
+            "table": [
+              ["Type", "Caractéristiques", "Utilisations typiques"],
+              ["Smartphone", "Compact, toujours disponible, limité en qualité", "Photos quotidiennes, réseaux sociaux"],
+              ["Compact", "Petit, facile à utiliser, zoom intégré", "Voyages, événements familiaux"],
+              ["Bridge", "Polyvalent, grand zoom fixe", "Photographie polyvalente, nature"],
+              ["Reflex (DSLR)", "Qualité d'image élevée, objectifs interchangeables", "Photographie professionnelle, sport"],
+              ["Hybride", "Compact, qualité proche des reflex", "Voyage, street photography, vidéo"]
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Composition photographique",
+        "subsections": [
+          {
+            "title": "Règle des tiers",
+            "content": "La règle des tiers est l'un des principes fondamentaux de la composition. Imaginez votre cadre divisé en neuf parties égales par deux lignes horizontales et deux lignes verticales. Les points d'intersection de ces lignes sont des emplacements stratégiques pour placer les éléments importants de votre image.",
+            "bullets": [
+              "Placez les sujets principaux sur les lignes ou à leurs intersections",
+              "Alignez l'horizon sur la ligne horizontale supérieure ou inférieure",
+              "Cette technique crée des images plus équilibrées et dynamiques"
+            ]
+          },
+          {
+            "title": "Autres techniques de composition",
+            "content": "Au-delà de la règle des tiers, plusieurs autres principes peuvent améliorer vos compositions :",
+            "bullets": [
+              "**Lignes directrices** : Utilisez des lignes naturelles pour guider le regard vers le sujet",
+              "**Cadrage** : Utilisez des éléments naturels pour encadrer votre sujet",
+              "**Symétrie et motifs** : Créez de l'impact visuel avec la répétition ou la symétrie",
+              "**Espace négatif** : Utilisez l'espace vide pour mettre en valeur votre sujet",
+              "**Perspective** : Jouez avec les angles et points de vue pour créer de la profondeur"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Lumière et couleur",
+        "subsections": [
+          {
+            "title": "L'importance de la lumière",
+            "content": "La photographie est littéralement l'art d'écrire avec la lumière. Comprendre la lumière est essentiel :",
+            "bullets": [
+              "**Lumière dure vs douce** : La lumière directe crée des ombres nettes, la lumière diffuse adoucit les traits",
+              "**Direction de la lumière** : Frontale, latérale, en contre-jour, chacune crée une ambiance différente",
+              "**Heure dorée** : La première et dernière heure de lumière du jour offrent une qualité chaleureuse incomparable",
+              "**Heure bleue** : Le crépuscule après le coucher du soleil crée une ambiance bleutée magique"
+            ]
+          },
+          {
+            "title": "Balance des blancs et température de couleur",
+            "content": "La balance des blancs ajuste la teinte globale de l'image pour compenser la température de couleur de la source lumineuse :",
+            "table": [
+              ["Source de lumière", "Température (Kelvin)", "Ambiance"],
+              ["Bougie", "1500-2000K", "Orange très chaud"],
+              ["Ampoule tungstène", "2700-3300K", "Jaune chaud"],
+              ["Lever/coucher soleil", "3000-4000K", "Orange-jaune"],
+              ["Flash électronique", "5000-5500K", "Blanc neutre"],
+              ["Lumière du jour (midi)", "5500-6500K", "Blanc légèrement bleuté"],
+              ["Ciel nuageux", "6500-8000K", "Bleu froid"],
+              ["Ombre profonde", "9000-10000K", "Bleu très froid"]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "instruction": "Créer une présentation sur les principes fondamentaux du marketing digital",
+    "output": [
+      {
+        "title": "Introduction au marketing digital",
+        "subsections": [
+          {
+            "title": "Qu'est-ce que le marketing digital ?",
+            "content": "Le marketing digital englobe toutes les stratégies marketing utilisant les canaux en ligne pour promouvoir des produits, services ou marques. Il s'agit d'une approche multicanale qui connecte les entreprises à leurs clients potentiels via internet et d'autres formes de communication digitale.",
+            "bullets": [
+              "Marketing sur moteurs de recherche (SEO et SEA)",
+              "Marketing sur réseaux sociaux",
+              "Marketing par e-mail",
+              "Marketing de contenu",
+              "Publicité display et retargeting"
+            ]
+          },
+          {
+            "title": "L'importance du marketing digital aujourd'hui",
+            "content": "Dans un monde de plus en plus connecté, le marketing digital est devenu essentiel pour plusieurs raisons :",
+            "bullets": [
+              "**Ciblage précis** : Capacité d'atteindre des audiences spécifiques",
+              "**Mesurabilité** : Suivi et analyse des performances en temps réel",
+              "**Rentabilité** : Souvent moins coûteux que les méthodes traditionnelles",
+              "**Portée globale** : Possibilité d'atteindre des clients du monde entier",
+              "**Personnalisation** : Communication adaptée aux préférences individuelles"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Piliers du marketing digital",
+        "subsections": [
+          {
+            "title": "SEO (Search Engine Optimization)",
+            "content": "Le référencement naturel consiste à optimiser un site web pour améliorer sa visibilité dans les résultats des moteurs de recherche :",
+            "bullets": [
+              "**SEO on-page** : Optimisation du contenu, des mots-clés, des balises meta, etc.",
+              "**SEO off-page** : Création de backlinks, présence sur les réseaux sociaux",
+              "**SEO technique** : Vitesse du site, expérience mobile, structure URL",
+              "**SEO local** : Optimisation pour les recherches géolocalisées"
+            ]
+          },
+          {
+            "title": "Marketing de contenu",
+            "content": "Le marketing de contenu vise à créer et distribuer du contenu pertinent pour attirer et engager une audience définie :",
+            "bullets": [
+              "**Types de contenu** : Articles de blog, vidéos, podcasts, infographies, livres blancs, études de cas",
+              "**Stratégie de contenu** : Planification, création, publication et promotion du contenu",
+              "**Storytelling** : Utilisation de récits pour créer une connexion émotionnelle",
+              "**Distribution** : Canaux de diffusion pour maximiser la portée"
+            ],
+            "table": [
+              ["Format", "Avantages", "Défis"],
+              ["Articles de blog", "SEO, expertise", "Marché saturé"],
+              ["Vidéos", "Engagement élevé, mémorisation", "Production coûteuse"],
+              ["Podcasts", "Fidélisation, écoute mobile", "Mesure ROI difficile"],
+              ["Infographies", "Partageables, visuelles", "Nécessitent design pro"]
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Stratégies de marketing sur les réseaux sociaux",
+        "subsections": [
+          {
+            "title": "Choix des plateformes adaptées",
+            "content": "Chaque réseau social a ses propres caractéristiques et démographiques :",
+            "table": [
+              ["Plateforme", "Audience principale", "Type de contenu optimal"],
+              ["Facebook", "18-65+ ans, large spectre", "Vidéos, actualités, événements"],
+              ["Instagram", "18-34 ans, visuel", "Photos esthétiques, stories, reels"],
+              ["LinkedIn", "Professionnels, B2B", "Contenu professionnel, articles"],
+              ["Twitter", "25-49 ans, actualités", "Infos courtes, tendances"],
+              ["TikTok", "13-24 ans, créatif", "Vidéos courtes, tendances"],
+              ["Pinterest", "Femmes 25-54 ans", "Visuels DIY, mode, déco"]
+            ]
+          },
+          {
+            "title": "Création d'une stratégie efficace",
+            "content": "Une stratégie social media réussie repose sur plusieurs éléments clés :",
+            "bullets": [
+              "**Objectifs clairs** : Définir ce que vous voulez accomplir (notoriété, engagement, conversions)",
+              "**Calendrier éditorial** : Planifier votre contenu à l'avance",
+              "**Engagement authentique** : Interagir régulièrement avec votre communauté",
+              "**Analyse des performances** : Suivre et adapter votre stratégie selon les résultats",
+              "**Contenu organique vs payant** : Trouver le bon équilibre pour maximiser votre portée"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "instruction": "Créer une présentation sur la gestion de projet agile",
+    "output": [
+      {
+        "title": "Introduction à la méthode Agile",
+        "subsections": [
+          {
+            "title": "Qu'est-ce que la méthode Agile ?",
+            "content": "La méthode Agile est une approche itérative et collaborative de gestion de projet qui privilégie la flexibilité, l'adaptation aux changements et la livraison continue de valeur. Elle s'oppose aux méthodes traditionnelles en cascade (Waterfall) qui suivent un processus linéaire.",
+            "bullets": [
+              "Développée initialement pour les projets informatiques",
+              "Basée sur le Manifeste Agile publié en 2001",
+              "Met l'accent sur les individus, les interactions et la collaboration",
+              "Favorise l'adaptation au changement plutôt que le suivi d'un plan rigide"
+            ]
+          },
+          {
+            "title": "Les valeurs du Manifeste Agile",
+            "content": "Le Manifeste Agile repose sur quatre valeurs fondamentales :",
+            "bullets": [
+              "**Les individus et leurs interactions** plus que les processus et les outils",
+              "**Des logiciels opérationnels** plus qu'une documentation exhaustive",
+              "**La collaboration avec les clients** plus que la négociation contractuelle",
+              "**L'adaptation au changement** plus que le suivi d'un plan"
+            ],
+            "content2": "Ces valeurs ne rejettent pas les éléments de droite, mais privilégient ceux de gauche."
+          }
+        ]
+      },
+      {
+        "title": "Méthodologies Agiles principales",
+        "subsections": [
+          {
+            "title": "Scrum",
+            "content": "Scrum est la méthodologie Agile la plus populaire. Elle structure le travail en sprints (itérations de 1 à 4 semaines) et définit des rôles, événements et artefacts spécifiques :",
+            "bullets": [
+              "**Rôles** : Product Owner, Scrum Master, Équipe de développement",
+              "**Événements** : Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective",
+              "**Artefacts** : Product Backlog, Sprint Backlog, Incrément"
+            ],
+            "table": [
+              ["Élément", "Description"],
+              ["Sprint", "Période fixe (1-4 semaines) durant laquelle un incrément de produit est créé"],
+              ["Product Backlog", "Liste ordonnée de tout ce qui pourrait être nécessaire dans le produit"],
+              ["Daily Scrum", "Réunion quotidienne de 15 minutes pour synchroniser les activités"],
+              ["Sprint Review", "Démonstration de l'incrément réalisé pendant le sprint"],
+              ["Retrospective", "Réunion pour identifier les améliorations du processus"]
+            ]
+          },
+          {
+            "title": "Kanban",
+            "content": "Kanban est une méthode Agile visuelle qui met l'accent sur la livraison continue sans itérations fixes :",
+            "bullets": [
+              "**Tableau Kanban** : Visualisation du flux de travail avec des colonnes (à faire, en cours, terminé)",
+              "**Limites de travail en cours (WIP)** : Restriction du nombre d'éléments simultanés",
+              "**Flux continu** : Ajout et complétion de tâches en continu, sans sprints",
+              "**Métriques** : Temps de cycle, débit de production"
+            ],
+            "content2": "Contrairement à Scrum, Kanban ne prescrit pas de rôles spécifiques et permet une évolution plus fluide des priorités."
+          }
+        ]
+      },
+      {
+        "title": "Mise en œuvre de l'Agilité",
+        "subsections": [
+          {
+            "title": "Les défis de la transformation Agile",
+            "content": "Adopter l'Agilité au sein d'une organisation présente plusieurs défis :",
+            "bullets": [
+              "**Résistance au changement** : Habitudes ancrées et peur de l'inconnu",
+              "**Culture organisationnelle** : Besoin d'une culture de confiance et de transparence",
+              "**Formation des équipes** : Acquisition de nouvelles compétences et mindset",
+              "**Alignement des parties prenantes** : Compréhension commune des principes Agiles",
+              "**Intégration avec les processus existants** : Compatibilité avec les systèmes en place"
+            ]
+          },
+          {
+            "title": "Outils et techniques Agiles",
+            "content": "Plusieurs outils et techniques facilitent la gestion de projet Agile :",
+            "table": [
+              ["Outil/Technique", "Usage"],
+              ["User Stories", "Format pour exprimer les besoins utilisateurs"],
+              ["Planning Poker", "Technique d'estimation collaborative"],
+              ["Burndown Charts", "Visualisation de l'avancement du travail"],
+              ["Jira/Trello", "Logiciels de gestion de projets Agiles"],
+              ["Stand-up Meetings", "Communication rapide et régulière"],
+              ["Continuous Integration", "Intégration fréquente du code pour détecter les problèmes tôt"]
+            ],
+            "content2": "Ces outils doivent être adaptés au contexte spécifique de l'équipe et ne remplacent pas la compréhension des principes Agiles."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "instruction": "Créer une présentation sur les bases de la nutrition",
+    "output": [
+      {
+        "title": "Fondamentaux de la nutrition",
+        "subsections": [
+          {
+            "title": "Les macronutriments essentiels",
+            "content": "Les macronutriments sont les nutriments dont notre corps a besoin en grandes quantités. Ils fournissent l'énergie et les matériaux de construction nécessaires au fonctionnement de l'organisme.",
+            "table": [
+              ["Macronutriment", "Fonction principale", "Sources alimentaires"],
+              ["Protéines", "Construction et réparation des tissus", "Viande, poisson, œufs, légumineuses, produits laitiers"],
+              ["Glucides", "Source d'énergie principale", "Céréales, fruits, légumes, légumineuses"],
+              ["Lipides", "Stockage d'énergie, absorption des vitamines", "Huiles, beurre, noix, avocats, poissons gras"]
+            ],
+            "content2": "La répartition recommandée varie selon les besoins individuels, mais généralement : 45-65% de l'apport calorique provient des glucides, 20-35% des lipides et 10-35% des protéines."
+          },
+          {
+            "title": "Les micronutriments (vitamines et minéraux)",
+            "content": "Les micronutriments sont nécessaires en petites quantités mais sont essentiels pour de nombreuses fonctions biologiques :",
+            "bullets": [
+              "**Vitamines liposolubles** : A, D, E, K (stockées dans les tissus adipeux)",
+              "**Vitamines hydrosolubles** : C et complexe B (non stockées, excès éliminé)",
+              "**Minéraux majeurs** : Calcium, phosphore, potassium, sodium, magnésium",
+              "**Oligo-éléments** : Fer, zinc, cuivre, sélénium (requis en très petites quantités)"
+            ],
+            "content2": "Une alimentation variée et équilibrée couvre généralement les besoins en micronutriments. Des carences peuvent survenir dans certaines conditions et nécessiter une supplémentation."
+          }
+        ]
+      },
+      {
+        "title": "Équilibre alimentaire et besoins énergétiques",
+        "subsections": [
+          {
+            "title": "Balance énergétique",
+            "content": "La balance énergétique représente l'équilibre entre les calories consommées et les calories dépensées :",
+            "bullets": [
+              "**Balance positive** : Consommation > Dépense = Prise de poids",
+              "**Balance neutre** : Consommation = Dépense = Maintien du poids",
+              "**Balance négative** : Consommation < Dépense = Perte de poids"
+            ],
+            "content2": "Le métabolisme de base (calories dépensées au repos) représente 60-70% de la dépense énergétique totale. L'activité physique et la digestion constituent le reste."
+          },
+          {
+            "title": "Recommandations pour une alimentation équilibrée",
+            "content": "Une alimentation équilibrée respecte certains principes clés :",
+            "bullets": [
+              "**Diversité alimentaire** : Consommer une variété d'aliments de tous les groupes",
+              "**Modération** : Contrôler les portions et la fréquence de consommation",
+              "**Densité nutritionnelle** : Privilégier les aliments riches en nutriments",
+              "**Fraîcheur** : Favoriser les aliments peu transformés",
+              "**Hydratation** : Boire suffisamment d'eau (environ 1,5-2L par jour)"
+            ],
+            "table": [
+              ["Groupe alimentaire", "Recommandation quotidienne approximative"],
+              ["Fruits et légumes", "Au moins 5 portions"],
+              ["Céréales (de préférence complètes)", "4-6 portions"],
+              ["Protéines (viande, poisson, œufs, légumineuses)", "2-3 portions"],
+              ["Produits laitiers", "2-3 portions"],
+              ["Matières grasses", "Avec modération (préférer insaturées)"]
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Nutrition et santé",
+        "subsections": [
+          {
+            "title": "Impact de l'alimentation sur la santé",
+            "content": "L'alimentation influence de nombreux aspects de notre santé :",
+            "bullets": [
+              "**Système cardiovasculaire** : Une alimentation riche en graisses saturées et en sodium augmente les risques de maladies cardiaques",
+              "**Poids corporel** : Une alimentation déséquilibrée peut conduire au surpoids et à l'obésité",
+              "**Système immunitaire** : Certains nutriments renforcent nos défenses naturelles",
+              "**Santé mentale** : Des liens existent entre alimentation et humeur/fonction cognitive",
+              "**Longévité** : Les habitudes alimentaires influencent l'espérance de vie"
+            ]
+          },
+          {
+            "title": "Régimes alimentaires populaires",
+            "content": "De nombreux régimes alimentaires ont été développés, chacun avec ses avantages et limites potentiels :",
+            "table": [
+              ["Régime", "Caractéristiques", "Avantages potentiels", "Considérations"],
+              ["Méditerranéen", "Huile d'olive, poisson, légumes, fruits, céréales complètes", "Santé cardiovasculaire, longévité", "Peu restrictif, adapté à long terme"],
+              ["Végétarien", "Exclut viande et poisson", "Réduction risque maladies chroniques", "Attention aux apports en B12, fer, zinc"],
+              ["Végétalien", "Exclut tous produits animaux", "Empreinte écologique réduite", "Nécessite supplémentation (B12)"],
+              ["Cétogène", "Très pauvre en glucides, riche en lipides", "Perte de poids rapide, épilepsie", "Difficile à maintenir, effets à long terme ?"],
+              ["Intermittent", "Alternance périodes jeûne/alimentation", "Perte de poids, métabolisme", "Recherches encore en cours"]
+            ],
+            "content2": "Le meilleur régime est celui qu'on peut maintenir à long terme et qui fournit tous les nutriments nécessaires."
+          }
+        ]
+      }
+    ]
+  }

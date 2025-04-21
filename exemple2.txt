@@ -1,0 +1,135 @@
+{
+  "instruction": "Créer une présentation sur les bases du langage Python",
+  "output": [
+    {
+      "title": "Introduction à Python",
+      "subsections": [
+        {
+          "title": "Qu'est-ce que Python ?",
+          "content": "Python est un langage de programmation interprété, de haut niveau et polyvalent créé par Guido van Rossum en 1991. Il met l'accent sur la lisibilité du code avec une syntaxe claire et expressive.",
+          "bullets": [
+            "Langage interprété et multiplateforme",
+            "Syntaxe simple et lisible",
+            "Grande bibliothèque standard"
+          ]
+        },
+        {
+          "title": "Pourquoi utiliser Python ?",
+          "content": "Python est apprécié pour plusieurs raisons :",
+          "bullets": [
+            "**Simplicité d'apprentissage** : Syntaxe intuitive idéale pour les débutants",
+            "**Polyvalence** : Utilisé dans le développement web, la data science, l'IA, etc.",
+            "**Communauté active** : Nombreuses ressources et bibliothèques disponibles",
+            "**Productivité élevée** : Permet d'écrire des programmes rapidement"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Les bases de Python",
+      "subsections": [
+        {
+          "title": "Installation et configuration",
+          "content": "Pour commencer avec Python, vous devez l'installer sur votre système :",
+          "code": [
+            "# Vérifier la version de Python installée",
+            "python --version",
+            "",
+            "# Lancer l'interpréteur Python",
+            "python"
+          ]
+        },
+        {
+          "title": "Variables et types de données",
+          "content": "Python dispose de plusieurs types de données fondamentaux :",
+          "table": [
+            ["Type", "Description", "Exemple"],
+            ["int", "Nombres entiers", "42"],
+            ["float", "Nombres à virgule flottante", "3.14"],
+            ["str", "Chaînes de caractères", "\"Bonjour\""],
+            ["bool", "Booléens", "True ou False"],
+            ["list", "Listes (séquences modifiables)", "[1, 2, 3]"],
+            ["dict", "Dictionnaires (paires clé-valeur)", "{\"nom\": \"Python\"}"]
+          ],
+          "code": [
+            "# Exemples de variables",
+            "nombre = 42",
+            "pi = 3.14159",
+            "message = \"Bonjour, Python !\"",
+            "est_vrai = True",
+            "liste = [1, 2, 3, 4, 5]",
+            "dictionnaire = {\"langage\": \"Python\", \"version\": 3.9}"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Structures de contrôle",
+      "subsections": [
+        {
+          "title": "Conditions (if, elif, else)",
+          "content": "Les structures conditionnelles permettent d'exécuter du code selon certaines conditions :",
+          "code": [
+            "age = 18",
+            "",
+            "if age < 18:",
+            "    print(\"Mineur\")",
+            "elif age == 18:",
+            "    print(\"Tout juste majeur\")",
+            "else:",
+            "    print(\"Majeur\")"
+          ]
+        },
+        {
+          "title": "Boucles (for, while)",
+          "content": "Python propose deux types de boucles principales :",
+          "bullets": [
+            "**Boucle for** : Utilisée pour itérer sur une séquence",
+            "**Boucle while** : S'exécute tant qu'une condition est vraie"
+          ],
+          "code": [
+            "# Boucle for",
+            "for i in range(5):",
+            "    print(i)  # Affiche 0, 1, 2, 3, 4",
+            "",
+            "# Boucle while",
+            "compteur = 0",
+            "while compteur < 5:",
+            "    print(compteur)",
+            "    compteur += 1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Fonctions en Python",
+      "subsections": [
+        {
+          "title": "Définition et appel de fonctions",
+          "content": "Les fonctions permettent de regrouper du code réutilisable :",
+          "code": [
+            "def saluer(nom):",
+            "    return f\"Bonjour, {nom} !\"",
+            "",
+            "# Appel de la fonction",
+            "message = saluer(\"Alice\")",
+            "print(message)  # Affiche: Bonjour, Alice !"
+          ]
+        },
+        {
+          "title": "Arguments et valeurs de retour",
+          "content": "Les fonctions peuvent accepter plusieurs arguments et retourner des valeurs :",
+          "code": [
+            "def calculer_moyenne(nombres):",
+            "    total = sum(nombres)",
+            "    return total / len(nombres) if nombres else 0",
+            "",
+            "notes = [15, 17, 12, 19, 14]",
+            "moyenne = calculer_moyenne(notes)",
+            "print(f\"La moyenne est {moyenne}\")  # Affiche: La moyenne est 15.4"
+          ]
+        }
+      ]
+    }
+  ]
+}
