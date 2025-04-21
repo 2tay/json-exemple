@@ -1,0 +1,536 @@
+[
+  {
+    "instruction": "Créer une présentation sur l'art de la négociation",
+    "output": [
+      {
+        "title": "Fondamentaux de la négociation efficace",
+        "subsections": [
+          {
+            "title": "Qu'est-ce que la négociation ?",
+            "content": "La négociation est un processus de communication entre deux ou plusieurs parties visant à parvenir à un accord mutuellement acceptable sur un sujet d'intérêt commun. C'est un art qui combine stratégie, psychologie et communication.",
+            "bullets": [
+              "Processus d'échange visant à résoudre des différends ou à atteindre des objectifs",
+              "Compétence essentielle dans le monde professionnel et personnel",
+              "Équilibre entre coopération et affirmation de ses intérêts",
+              "Interaction complexe impliquant des aspects rationnels et émotionnels"
+            ]
+          },
+          {
+            "title": "Les types de négociation",
+            "content": "On distingue généralement deux approches fondamentales de la négociation :",
+            "table": [
+              ["Type", "Caractéristiques", "Contexte d'utilisation"],
+              ["Distributive (gagnant-perdant)", "Une ressource limitée à partager, positions opposées, importance du rapport de force", "Négociations ponctuelles, absence de relation future"],
+              ["Intégrative (gagnant-gagnant)", "Création de valeur, recherche d'intérêts communs, solutions créatives", "Relations de long terme, enjeux multiples"]
+            ],
+            "content2": "En pratique, la plupart des négociations contiennent des éléments des deux types, formant un continuum plutôt qu'une dichotomie stricte."
+          }
+        ]
+      },
+      {
+        "title": "Préparation et stratégie de négociation",
+        "subsections": [
+          {
+            "title": "La préparation : clé du succès",
+            "content": "Une négociation réussie repose sur une préparation minutieuse :",
+            "bullets": [
+              "**Définir ses objectifs** : Déterminer clairement ce que l'on souhaite obtenir (objectif optimal, minimal, alternatives)",
+              "**Analyser la partie adverse** : Comprendre ses intérêts, contraintes, priorités et style de négociation",
+              "**Identifier sa BATNA** : Best Alternative To a Negotiated Agreement (meilleure solution de repli)",
+              "**Déterminer sa zone de négociation** : Espace entre son point de résistance et celui de l'autre partie",
+              "**Anticiper les arguments et objections** : Préparer ses réponses et contre-propositions"
+            ]
+          },
+          {
+            "title": "Stratégies et tactiques de négociation",
+            "content": "Plusieurs approches stratégiques peuvent être adoptées selon le contexte :",
+            "bullets": [
+              "**La méthode Harvard** : Négociation raisonnée séparant les personnes du problème, centrée sur les intérêts et non les positions",
+              "**L'approche séquentielle** : Décomposer la négociation en étapes successives pour avancer progressivement",
+              "**Le cadrage** : Présenter les enjeux sous un angle favorable à ses objectifs",
+              "**Les concessions stratégiques** : Céder sur des points secondaires pour obtenir l'essentiel",
+              "**L'utilisation du temps** : Maîtriser le rythme de la négociation (patience, date limite, urgence)"
+            ],
+            "table": [
+              ["Tactique", "Description", "Contre-mesure"],
+              ["Intimidation", "Pression, menaces, attitude agressive", "Rester calme, nommer la tactique, faire une pause"],
+              ["Salami", "Obtenir de petites concessions successives", "Voir l'ensemble du processus, exiger la réciprocité"],
+              ["Faux départ", "Demander beaucoup plus pour obtenir ce qu'on veut", "Questionner la légitimité, ancrer des références réalistes"],
+              ["Good cop/bad cop", "Alternance d'attitudes conciliante et intransigeante", "Traiter séparément avec chaque interlocuteur"]
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Communication et psychologie en négociation",
+        "subsections": [
+          {
+            "title": "Les compétences de communication essentielles",
+            "content": "La communication est au cœur du processus de négociation :",
+            "bullets": [
+              "**Écoute active** : Porter une attention totale à l'interlocuteur, reformuler, questionner pour comprendre",
+              "**Questionnement efficace** : Alterner questions ouvertes (exploration) et fermées (confirmation)",
+              "**Communication non verbale** : Contrôler et interpréter les gestes, expressions, postures",
+              "**Argumentation structurée** : Présenter des arguments logiques, étayés par des preuves",
+              "**Adaptation du langage** : Ajuster son vocabulaire et style au contexte et à l'interlocuteur"
+            ],
+            "content2": "La maîtrise de ces compétences permet d'établir un climat de confiance, d'obtenir des informations cruciales et de faire valoir ses arguments de manière convaincante."
+          },
+          {
+            "title": "Les facteurs psychologiques en négociation",
+            "content": "La dimension psychologique influence considérablement le processus et le résultat des négociations :",
+            "bullets": [
+              "**Biais cognitifs** : Ancrage, aversion à la perte, excès de confiance, effet de halo",
+              "**Intelligence émotionnelle** : Gestion de ses émotions et compréhension de celles d'autrui",
+              "**Construction de la confiance** : Fondement d'une négociation collaborative",
+              "**Réciprocité** : Tendance naturelle à rendre ce qu'on nous accorde",
+              "**Effet de rareté** : Perception accrue de la valeur de ce qui est limité ou menacé"
+            ],
+            "content2": "La conscience de ces facteurs permet d'éviter les pièges psychologiques et d'utiliser éthiquement les principes d'influence pour faciliter l'atteinte d'un accord."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "instruction": "Créer une présentation sur les fondamentaux de la communication interpersonnelle",
+    "output": [
+      {
+        "title": "Introduction à la communication interpersonnelle",
+        "subsections": [
+          {
+            "title": "Qu'est-ce que la communication interpersonnelle ?",
+            "content": "La communication interpersonnelle est l'échange d'informations, d'idées et de sentiments entre deux personnes ou plus. C'est un processus dynamique et multidimensionnel qui façonne nos relations personnelles et professionnelles.",
+            "bullets": [
+              "Processus d'échange verbal et non verbal entre individus",
+              "Fondement de toutes les relations humaines",
+              "Compétence essentielle dans tous les domaines de la vie",
+              "Mélange complexe d'aspects cognitifs, émotionnels et comportementaux",
+              "Influencée par le contexte culturel et social"
+            ],
+            "content2": "Une communication efficace ne se résume pas à la simple transmission d'un message, mais implique également la compréhension mutuelle et la création de sens partagé."
+          },
+          {
+            "title": "Le modèle de communication",
+            "content": "La communication peut être comprise à travers différents modèles, mais le plus fondamental inclut ces éléments :",
+            "bullets": [
+              "**Émetteur** : Personne qui formule et transmet le message",
+              "**Message** : Contenu verbal ou non verbal transmis",
+              "**Canal** : Moyen par lequel le message est transmis (voix, texte, vidéo, etc.)",
+              "**Récepteur** : Personne qui reçoit et interprète le message",
+              "**Feedback** : Réponse du récepteur permettant de vérifier la compréhension",
+              "**Contexte** : Environnement et circonstances de la communication",
+              "**Bruit** : Toute interférence pouvant perturber la transmission du message"
+            ],
+            "content2": "Ce modèle souligne la nature interactive et circulaire de la communication, où les rôles d'émetteur et de récepteur alternent constamment."
+          }
+        ]
+      },
+      {
+        "title": "Dimensions de la communication interpersonnelle",
+        "subsections": [
+          {
+            "title": "Communication verbale et non verbale",
+            "content": "La communication humaine s'exprime à travers deux dimensions complémentaires :",
+            "table": [
+              ["Dimension", "Composantes", "Caractéristiques"],
+              ["Communication verbale", "Mots, langage, discours", "Explicite, précise, contrôlée consciemment"],
+              ["Communication non verbale", "Expressions faciales, gestes, posture, ton de voix, regard, distance", "Souvent inconsciente, émotionnelle, culturellement variable"]
+            ],
+            "bullets": [
+              "La communication non verbale représente 55-93% du message total selon le contexte",
+              "Le paraverbal (intonation, débit, volume) compte pour environ 38% du message émotionnel",
+              "Les mots eux-mêmes ne représentent que 7-10% de l'impact émotionnel d'un message",
+              "En cas d'incohérence, le non-verbal tend à être perçu comme plus authentique que le verbal"
+            ]
+          },
+          {
+            "title": "Styles de communication",
+            "content": "Il existe différents styles de communication, chacun avec ses forces et ses limites :",
+            "bullets": [
+              "**Style passif** : Évitement du conflit, minimisation de ses besoins, difficulté à s'affirmer",
+              "**Style agressif** : Expression directe sans considération pour les autres, dominance",
+              "**Style passif-agressif** : Hostilité indirecte, agressivité masquée",
+              "**Style assertif** : Expression respectueuse de ses besoins tout en considérant ceux des autres",
+              "**Style manipulateur** : Influence subtile pour obtenir ce qu'on veut sans être direct"
+            ],
+            "content2": "L'assertivité est généralement considérée comme le style le plus équilibré et efficace, permettant une communication authentique tout en préservant la relation."
+          }
+        ]
+      },
+      {
+        "title": "Compétences clés pour une communication efficace",
+        "subsections": [
+          {
+            "title": "L'art de l'écoute active",
+            "content": "L'écoute active est fondamentale pour une communication de qualité :",
+            "bullets": [
+              "**Attention complète** : Concentration totale sur l'interlocuteur, sans distractions",
+              "**Langage corporel réceptif** : Contact visuel, posture ouverte, hochements de tête",
+              "**Suspension du jugement** : Mise en pause des préjugés et des réactions immédiates",
+              "**Questionnement pertinent** : Questions ouvertes pour approfondir la compréhension",
+              "**Reformulation** : Paraphrase du message pour vérifier la compréhension",
+              "**Reflet des émotions** : Reconnaissance des sentiments exprimés"
+            ],
+            "content2": "L'écoute active n'est pas passive ; c'est un processus engagé qui demande de l'énergie et de la présence, mais qui enrichit considérablement la qualité des échanges."
+          },
+          {
+            "title": "Feedback constructif et résolution de conflits",
+            "content": "Savoir donner et recevoir du feedback est essentiel pour des relations saines :",
+            "bullets": [
+              "**Feedback constructif** : Spécifique, descriptif plutôt que jugement, orienté solutions",
+              "**Messages-je** : Expression à la première personne (\"Je me sens...\" plutôt que \"Tu me fais...\")",
+              "**Gestion des émotions** : Reconnaissance et régulation de ses réactions émotionnelles",
+              "**Résolution de conflits** : Recherche de solutions gagnant-gagnant, négociation collaborative",
+              "**Communication non violente** : Observation, sentiment, besoin, demande"
+            ],
+            "table": [
+              ["Technique", "Application"],
+              ["DESC", "Décrire les faits, Exprimer ses sentiments, Spécifier ses attentes, Conséquences positives"],
+              ["OSBD", "Observation, Sentiment, Besoin, Demande (méthode de communication non violente)"],
+              ["Technique du sandwich", "Positif - Amélioration - Positif"],
+              ["5 pourquoi", "Approfondir pour comprendre les causes racines d'un problème"]
+            ],
+            "content2": "Ces techniques permettent d'aborder des sujets difficiles de manière constructive tout en préservant la relation et la dignité de chacun."
+          }
+        ]
+      }
+    ]
+  }
+]
+  {
+    "instruction": "Créer une présentation sur les principes de la cybersécurité",
+    "output": [
+      {
+        "title": "Introduction à la cybersécurité",
+        "subsections": [
+          {
+            "title": "Définition et importance de la cybersécurité",
+            "content": "La cybersécurité englobe l'ensemble des technologies, processus et pratiques conçus pour protéger les réseaux, les dispositifs, les programmes et les données contre les attaques, les dommages ou les accès non autorisés.",
+            "bullets": [
+              "Protection des systèmes informatiques et des données contre les menaces",
+              "Enjeu majeur pour les individus, entreprises et gouvernements",
+              "Domaine en constante évolution face aux nouvelles technologies et menaces",
+              "Équilibre entre sécurité, utilisabilité et coûts"
+            ],
+            "content2": "Dans un monde de plus en plus connecté et dépendant des technologies numériques, la cybersécurité est devenue un pilier fondamental de notre société moderne."
+          },
+          {
+            "title": "Le paysage des cybermenaces",
+            "content": "L'environnement des menaces cybernétiques est vaste et en constante évolution :",
+            "table": [
+              ["Type de menace", "Description", "Exemples"],
+              ["Malwares", "Logiciels malveillants conçus pour endommager ou infiltrer des systèmes", "Virus, vers, ransomwares, spywares"],
+              ["Ingénierie sociale", "Manipulation psychologique pour obtenir des informations confidentielles", "Phishing, prétexting, baiting"],
+              ["Attaques réseau", "Exploitation des vulnérabilités des infrastructures de communication", "DDoS, man-in-the-middle, sniffing"],
+              ["Vulnérabilités logicielles", "Failles dans les applications pouvant être exploitées", "Injections SQL, XSS, buffer overflow"],
+              ["Menaces internes", "Risques provenant de l'intérieur de l'organisation", "Employés mécontents, négligence, erreurs humaines"]
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Principes fondamentaux de la cybersécurité",
+        "subsections": [
+          {
+            "title": "La triade CIA : pilier de la sécurité de l'information",
+            "content": "La triade CIA (Confidentialité, Intégrité, Disponibilité) constitue le fondement conceptuel de la sécurité de l'information :",
+            "bullets": [
+              "**Confidentialité** : Garantir que l'information n'est accessible qu'aux personnes autorisées",
+              "**Intégrité** : Assurer l'exactitude et la complétude des données et des systèmes",
+              "**Disponibilité** : Permettre l'accès aux informations et aux systèmes quand nécessaire"
+            ],
+            "content2": "Ces trois principes sont interdépendants et complémentaires. Certains modèles étendent cette triade avec d'autres concepts comme l'authenticité, la non-répudiation et la traçabilité."
+          },
+          {
+            "title": "Défense en profondeur et autres concepts clés",
+            "content": "Au-delà de la triade CIA, plusieurs principes guident les pratiques de cybersécurité :",
+            "bullets": [
+              "**Défense en profondeur** : Stratégie de protection à multiples couches pour minimiser les points de défaillance",
+              "**Principe du moindre privilège** : Accorder uniquement les droits d'accès minimaux nécessaires",
+              "**Séparation des tâches** : Division des responsabilités critiques entre différents utilisateurs",
+              "**Sécurité par conception** : Intégration de la sécurité dès les premières phases de développement",
+              "**Connaissance des risques** : Identification, évaluation et priorisation des risques"
+            ],
+            "table": [
+              ["Principe", "Application pratique"],
+              ["Défense en profondeur", "Combinaison de pare-feu, antivirus, chiffrement, authentification"],
+              ["Moindre privilège", "Restrictions d'accès basées sur les rôles et les besoins"],
+              ["Séparation des tâches", "Exigence de multiples approbations pour les actions sensibles"],
+              ["Sécurité par conception", "Tests de sécurité intégrés au cycle de développement logiciel"]
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Mise en œuvre de la cybersécurité",
+        "subsections": [
+          {
+            "title": "Mesures techniques de protection",
+            "content": "Un arsenal de solutions techniques permet de renforcer la sécurité des systèmes d'information :",
+            "bullets": [
+              "**Authentification** : Vérification de l'identité (mots de passe, biométrie, authentification à facteurs multiples)",
+              "**Chiffrement** : Protection des données par codage mathématique (symétrique, asymétrique, hachage)",
+              "**Contrôles d'accès** : Gestion des autorisations d'accès aux ressources (RBAC, DAC, MAC)",
+              "**Protection du réseau** : Sécurisation des communications (pare-feu, IDS/IPS, VPN, segmentation)",
+              "**Sécurité des endpoints** : Protection des dispositifs finaux (antivirus, EDR, chiffrement de disque)"
+            ],
+            "content2": "Ces mesures doivent être régulièrement mises à jour et testées pour s'adapter à l'évolution des menaces et des technologies."
+          },
+          {
+            "title": "Le facteur humain en cybersécurité",
+            "content": "La technologie seule ne suffit pas : l'élément humain est crucial en cybersécurité :",
+            "bullets": [
+              "**Sensibilisation et formation** : Éducation des utilisateurs aux bonnes pratiques et menaces",
+              "**Politiques de sécurité** : Cadres formels définissant les comportements attendus",
+              "**Gestion des incidents** : Procédures de détection, réponse et récupération",
+              "**Culture de sécurité** : Intégration de la sécurité dans les valeurs organisationnelles",
+              "**Veille et adaptation** : Suivi continu des évolutions du paysage des menaces"
+            ],
+            "table": [
+              ["Aspect", "Bonnes pratiques"],
+              ["Mots de passe", "Complexité, unicité, gestionnaires de mots de passe"],
+              ["Email", "Méfiance envers les pièces jointes, vérification des expéditeurs"],
+              ["Navigation web", "Vérification des URL, méfiance envers les téléchargements"],
+              ["Appareils mobiles", "Verrouillage, mises à jour, prudence avec les applications"],
+              ["Réseaux sociaux", "Contrôle des informations partagées, paramètres de confidentialité"]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "instruction": "Créer une présentation sur l'histoire de l'art",
+    "output": [
+      {
+        "title": "Panorama de l'histoire de l'art",
+        "subsections": [
+          {
+            "title": "Qu'est-ce que l'histoire de l'art ?",
+            "content": "L'histoire de l'art est l'étude de l'évolution et du développement des arts visuels à travers le temps. Elle examine les œuvres d'art dans leur contexte historique, social, culturel et politique.",
+            "bullets": [
+              "Discipline qui étudie les créations artistiques et leur évolution",
+              "Analyse les techniques, styles, mouvements et influences",
+              "Considère l'art comme expression culturelle et historique",
+              "Englobe peinture, sculpture, architecture, photographie et autres médiums"
+            ],
+            "content2": "L'approche de l'histoire de l'art a évolué au fil du temps, s'éloignant d'une vision purement esthétique pour intégrer des perspectives sociologiques, anthropologiques et interdisciplinaires."
+          },
+          {
+            "title": "Chronologie des grandes périodes artistiques",
+            "content": "L'histoire de l'art occidental est traditionnellement divisée en plusieurs périodes majeures :",
+            "table": [
+              ["Période", "Dates approximatives", "Caractéristiques principales"],
+              ["Art préhistorique", "40 000 - 3000 av. J.-C.", "Art pariétal, sculptures rituelles, mégalithes"],
+              ["Antiquité", "3000 av. J.-C. - 500 apr. J.-C.", "Art égyptien, grec, étrusque, romain"],
+              ["Moyen Âge", "500 - 1400", "Art byzantin, roman, gothique, enluminures"],
+              ["Renaissance", "1400 - 1600", "Retour aux idéaux classiques, perspective, humanisme"],
+              ["Baroque et Rococo", "1600 - 1750", "Mouvement, contraste, ornementation, théâtralité"],
+              ["Néoclassicisme et Romantisme", "1750 - 1850", "Retour à l'antique vs émotion et imagination"],
+              ["Réalisme et Impressionnisme", "1850 - 1900", "Quotidien, lumière, couleur, instantanéité"],
+              ["Art moderne", "1900 - 1970", "Avant-gardes, abstraction, expérimentation"],
+              ["Art contemporain", "1970 - présent", "Pluralisme, nouveaux médias, mondialisation"]
+            ]
+          }
+        ]
+      },
+      {
+        "title": "De la Préhistoire à la Renaissance",
+        "subsections": [
+          {
+            "title": "Les origines de l'art",
+            "content": "L'art préhistorique témoigne des premières expressions artistiques de l'humanité :",
+            "bullets": [
+              "**Art pariétal** : Peintures rupestres (Lascaux, Altamira) représentant animaux et scènes de chasse",
+              "**Vénus paléolithiques** : Figurines féminines aux formes exagérées, probablement liées à la fertilité",
+              "**Art mobilier** : Objets décorés transportables (outils, bijoux)",
+              "**Mégalithes** : Constructions monumentales en pierre (dolmens, menhirs, Stonehenge)"
+            ],
+            "content2": "Ces premières créations artistiques étaient probablement liées à des pratiques rituelles, magiques ou religieuses plutôt qu'à une recherche purement esthétique."
+          },
+          {
+            "title": "L'art de l'Antiquité au Moyen Âge",
+            "content": "Les civilisations antiques ont développé des traditions artistiques distinctives :",
+            "bullets": [
+              "**Art égyptien** : Rigidité formelle, frontalité, hiérarchie de taille, fonction funéraire et religieuse",
+              "**Art grec** : Idéalisation du corps humain, recherche d'harmonie et de proportion (Parthénon, sculptures de Phidias)",
+              "**Art romain** : Pragmatisme, réalisme des portraits, architecture monumentale et ingénierie",
+              "**Art paléochrétien et byzantin** : Symbolisme religieux, mosaïques, icônes",
+              "**Art roman** : Architecture massive, sculptures expressives, manuscrits enluminés",
+              "**Art gothique** : Cathédrales lumineuses, verticalité, vitraux, naturalisme progressif"
+            ]
+          },
+          {
+            "title": "La Renaissance : révolution artistique",
+            "content": "La Renaissance marque un tournant majeur dans l'histoire de l'art occidental :",
+            "bullets": [
+              "**Origines en Italie** : Florence comme berceau, mécénat des Médicis",
+              "**Innovations techniques** : Perspective linéaire, sfumato, clair-obscur",
+              "**Humanisme** : Intérêt renouvelé pour l'Antiquité, valorisation de l'individu",
+              "**Artistes majeurs** : Giotto (précurseur), Masaccio, Botticelli, Léonard de Vinci, Michel-Ange, Raphaël",
+              "**Renaissance nordique** : Spécificités flamandes et allemandes (Van Eyck, Dürer)"
+            ],
+            "content2": "La Renaissance a élevé le statut de l'artiste de simple artisan à créateur intellectuel, posant les bases de la conception moderne de l'art."
+          }
+        ]
+      },
+      {
+        "title": "De l'ère moderne à l'art contemporain",
+        "subsections": [
+          {
+            "title": "Les mouvements d'avant-garde du XXe siècle",
+            "content": "Le début du XXe siècle a vu une prolifération de mouvements artistiques révolutionnaires :",
+            "table": [
+              ["Mouvement", "Période", "Caractéristiques", "Artistes clés"],
+              ["Fauvisme", "1905-1908", "Couleurs vives, expressives, libérées du réalisme", "Matisse, Derain, Vlaminck"],
+              ["Cubisme", "1907-1914", "Fragmentation, perspectives multiples, géométrisation", "Picasso, Braque, Gris"],
+              ["Expressionnisme", "1905-1925", "Émotion subjective, déformation, intensité", "Munch, Kirchner, Kandinsky"],
+              ["Dadaïsme", "1916-1922", "Anti-art, absurde, provocation, ready-made", "Duchamp, Tzara, Ernst"],
+              ["Surréalisme", "1924-1945", "Inconscient, rêve, automatisme, associations inattendues", "Dalí, Magritte, Ernst"],
+              ["Art abstrait", "1910-présent", "Non-figuration, langage visuel autonome", "Kandinsky, Mondrian, Malevitch"]
+            ]
+          },
+          {
+            "title": "L'après-guerre et l'art contemporain",
+            "content": "La seconde moitié du XXe siècle a vu émerger de nouvelles approches artistiques :",
+            "bullets": [
+              "**Expressionnisme abstrait** : Gestualité, grand format, spontanéité (Pollock, de Kooning)",
+              "**Pop Art** : Culture populaire, consommation de masse, reproductibilité (Warhol, Lichtenstein)",
+              "**Art conceptuel** : Primauté de l'idée sur la réalisation matérielle (Kosuth, LeWitt)",
+              "**Art minimal** : Réduction aux formes essentielles, répétition, industriel (Judd, Andre)",
+              "**Performance et Body Art** : Corps comme médium, éphémère, interaction (Abramović, Beuys)",
+              "**Art vidéo et nouveaux médias** : Technologies comme moyen d'expression (Paik, Viola)"
+            ],
+            "content2": "L'art contemporain se caractérise par son pluralisme, abolissant les frontières entre disciplines, questionnant les institutions artistiques et intégrant des préoccupations sociales, politiques et environnementales."
+          },
+          {
+            "title": "Tendances actuelles et perspectives",
+            "content": "L'art du XXIe siècle poursuit certaines tendances tout en explorant de nouvelles voies :",
+            "bullets": [
+              "**Globalisation de l'art** : Décentrement du monde de l'art occidental, diversité culturelle",
+              "**Art numérique** : Créations assistées par ordinateur, réalité virtuelle, NFT",
+              "**Art écologique** : Préoccupations environnementales, matériaux durables",
+              "**Art participatif** : Implication du public, co-création, œuvres relationnelles",
+              "**Post-internet** : Réflexion sur l'impact des technologies numériques sur notre expérience",
+              "**Retour aux techniques traditionnelles** : Réappropriation des savoir-faire artisanaux"
+            ],
+            "content2": "L'art contemporain reflète la complexité et les contradictions de notre époque, remettant continuellement en question ses propres définitions et frontières."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "instruction": "Créer une présentation sur les bases de la gestion financière personnelle",
+    "output": [
+      {
+        "title": "Fondamentaux de la gestion financière personnelle",
+        "subsections": [
+          {
+            "title": "Importance de la gestion financière personnelle",
+            "content": "La gestion financière personnelle est l'ensemble des pratiques et stratégies permettant de gérer efficacement ses revenus, dépenses, épargne et investissements pour atteindre ses objectifs financiers et améliorer son bien-être économique.",
+            "bullets": [
+              "Fondement d'une sécurité financière à court et long terme",
+              "Outil essentiel pour réaliser ses projets de vie",
+              "Moyen de réduire le stress lié aux questions d'argent",
+              "Compétence qui s'acquiert et se perfectionne avec le temps",
+              "Base de l'indépendance financière et de la liberté de choix"
+            ],
+            "content2": "Une bonne gestion financière personnelle ne dépend pas uniquement du montant des revenus, mais surtout de la capacité à prendre des décisions éclairées concernant l'utilisation de son argent."
+          },
+          {
+            "title": "Les piliers d'une gestion financière saine",
+            "content": "Une stratégie financière solide repose sur plusieurs éléments fondamentaux :",
+            "bullets": [
+              "**Budgétisation** : Planification et suivi des revenus et dépenses",
+              "**Épargne** : Constitution d'une réserve de sécurité et d'un capital pour projets futurs",
+              "**Gestion de la dette** : Contrôle et optimisation des emprunts",
+              "**Investissement** : Placement du capital pour générer des rendements",
+              "**Protection** : Couverture des risques par des assurances adaptées",
+              "**Planification** : Préparation des grandes étapes de la vie (retraite, succession)"
+            ],
+            "content2": "Ces piliers sont interdépendants et doivent être abordés de manière holistique pour construire une situation financière équilibrée et résiliente."
+          }
+        ]
+      },
+      {
+        "title": "Établir et gérer un budget efficace",
+        "subsections": [
+          {
+            "title": "Principes de la budgétisation",
+            "content": "Le budget est l'outil fondamental de la gestion financière personnelle. Il permet de :",
+            "bullets": [
+              "Visualiser clairement ses flux financiers entrants et sortants",
+              "Identifier les déséquilibres et opportunités d'optimisation",
+              "Prioriser ses dépenses en fonction de ses valeurs et objectifs",
+              "Éviter les découverts et l'endettement non planifié",
+              "Mesurer ses progrès financiers dans le temps"
+            ],
+            "content2": "Un budget n'est pas une contrainte restrictive mais un plan qui vous aide à utiliser votre argent de manière intentionnelle et alignée avec vos priorités."
+          },
+          {
+            "title": "Étapes pour créer et maintenir un budget",
+            "content": "La création d'un budget efficace suit généralement ces étapes :",
+            "bullets": [
+              "**Inventaire des revenus** : Salaire, revenus complémentaires, revenus passifs",
+              "**Catégorisation des dépenses** : Fixes (loyer, prêts), variables (alimentation, loisirs), occasionnelles",
+              "**Analyse des habitudes de dépenses** : Examen des relevés bancaires sur plusieurs mois",
+              "**Définition d'objectifs** : Court terme (fonds d'urgence), moyen terme (vacances), long terme (retraite)",
+              "**Allocation des ressources** : Méthode 50/30/20 (besoins/envies/épargne) ou autre répartition adaptée",
+              "**Suivi régulier** : Contrôle mensuel, ajustements si nécessaire"
+            ],
+            "table": [
+              ["Méthode de budgétisation", "Principe", "Avantages"],
+              ["Méthode des enveloppes", "Allocation d'un montant fixe par catégorie", "Visuel, contrôle des dépenses par catégorie"],
+              ["Budgétisation à base zéro", "Justification de chaque euro dépensé", "Élimine les dépenses superflues"],
+              ["Budget 50/30/20", "50% besoins, 30% envies, 20% épargne", "Simple, équilibré"],
+              ["Pay yourself first", "Épargne prélevée dès réception du revenu", "Priorise l'épargne, automatisable"]
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Épargne, investissement et planification financière",
+        "subsections": [
+          {
+            "title": "Stratégies d'épargne efficaces",
+            "content": "Une épargne bien structurée est le fondement de la stabilité financière :",
+            "bullets": [
+              "**Fonds d'urgence** : 3 à 6 mois de dépenses courantes, facilement accessible",
+              "**Épargne de précaution** : Pour les dépenses imprévues (réparations, santé)",
+              "**Épargne de projet** : Objectifs à moyen terme (voiture, apport immobilier)",
+              "**Automatisation** : Virements programmés dès réception des revenus",
+              "**Épargne progressive** : Augmentation du taux d'épargne avec chaque hausse de revenu"
+            ],
+            "table": [
+              ["Type d'épargne", "Objectif", "Horizon", "Support recommandé"],
+              ["Fonds d'urgence", "Sécurité financière", "Immédiat", "Compte épargne liquide, Livret A"],
+              ["Précaution", "Dépenses imprévues", "Court terme", "Livrets réglementés, comptes à terme"],
+              ["Projet", "Achat important", "Moyen terme", "Assurance-vie fonds euros, PEL"],
+              ["Retraite", "Complément de revenus", "Long terme", "PER, assurance-vie en UC, immobilier"]
+            ]
+          },
+          {
+            "title": "Bases de l'investissement",
+            "content": "L'investissement permet de faire fructifier son capital sur le long terme :",
+            "bullets": [
+              "**Principe risque/rendement** : Plus le rendement potentiel est élevé, plus le risque l'est aussi",
+              "**Diversification** : Répartition des actifs pour réduire le risque global",
+              "**Investissement régulier** : Stratégie d'achat périodique pour lisser les fluctuations",
+              "**Horizon de placement** : Adaptation de la stratégie à la durée d'investissement",
+              "**Fiscalité** : Prise en compte de l'impact fiscal dans le choix des supports",
+              "**Frais** : Attention aux coûts qui réduisent la performance nette"
+            ],
+            "content2": "L'investissement doit être abordé avec une vision à long terme et une bonne compréhension de son profil d'investisseur (tolérance au risque, objectifs, horizon)."
+          },
+          {
+            "title": "Planification des grandes étapes financières",
+            "content": "Une bonne gestion financière implique d'anticiper les grandes étapes de la vie :",
+            "bullets": [
+              "**Achat immobilier** : Planification de l'apport personnel, capacité d'emprunt, assurances",
+              "**Éducation des enfants** : Épargne dédiée, avantages fiscaux, estimation des coûts futurs",
+              "**Préparation à la retraite** : Évaluation des besoins, dispositifs d'épargne adaptés, optimisation fiscale",
+              "**Transmission de patrimoine** : Organisation de la succession, donation, assurance-vie"
+            ],
+            "content2": "Pour chaque étape, il est recommandé d'établir un plan spécifique et de l'ajuster régulièrement en fonction de l'évolution de sa situation personnelle et financière."
